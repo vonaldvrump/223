@@ -1,0 +1,142 @@
+[
+  {
+    "id": "101_diamond",
+    "title": "Бриллиант",
+    "emoji": "💎",
+    "special": false,
+    "tgs_bytes": 2602
+  },
+  {
+    "id": "102_crown",
+    "title": "Алмазная корона",
+    "emoji": "👑",
+    "special": false,
+    "tgs_bytes": 4957
+  },
+  {
+    "id": "103_ring",
+    "title": "Кольцо с бриллиантом",
+    "emoji": "💍",
+    "special": false,
+    "tgs_bytes": 3217
+  },
+  {
+    "id": "104_winged_heart",
+    "title": "Крылатое сердце",
+    "emoji": "💖",
+    "special": true,
+    "tgs_bytes": 4067
+  },
+  {
+    "id": "105_crystal_star",
+    "title": "Кристальная звезда",
+    "emoji": "⭐",
+    "special": false,
+    "tgs_bytes": 2578
+  },
+  {
+    "id": "106_verified_gem",
+    "title": "Алмазная галочка",
+    "emoji": "✅",
+    "special": false,
+    "tgs_bytes": 2752
+  },
+  {
+    "id": "107_treasure_chest",
+    "title": "Сундук с сокровищами",
+    "emoji": "🧰",
+    "special": false,
+    "tgs_bytes": 5326
+  },
+  {
+    "id": "108_diamond_flame",
+    "title": "Алмазное пламя",
+    "emoji": "🔥",
+    "special": false,
+    "tgs_bytes": 12689
+  },
+  {
+    "id": "109_vip_card",
+    "title": "VIP-карта",
+    "emoji": "💳",
+    "special": false,
+    "tgs_bytes": 4536
+  },
+  {
+    "id": "110_kronos_crystal",
+    "title": "Кристалл KRONOS",
+    "emoji": "💠",
+    "special": true,
+    "tgs_bytes": 5829
+  },
+  {
+    "id": "111_crystal_ornament",
+    "title": "Хрустальный шар",
+    "emoji": "🎄",
+    "special": false,
+    "tgs_bytes": 4792
+  },
+  {
+    "id": "112_crystal_tree",
+    "title": "Хрустальная ёлка",
+    "emoji": "🎄",
+    "special": false,
+    "tgs_bytes": 5075
+  },
+  {
+    "id": "113_gift_box",
+    "title": "Подарок",
+    "emoji": "🎁",
+    "special": false,
+    "tgs_bytes": 4886
+  },
+  {
+    "id": "114_year_2027",
+    "title": "2027",
+    "emoji": "🎆",
+    "special": false,
+    "tgs_bytes": 4961
+  },
+  {
+    "id": "115_snowflake_gem",
+    "title": "Снежинка-алмаз",
+    "emoji": "❄️",
+    "special": false,
+    "tgs_bytes": 8070
+  },
+  {
+    "id": "116_jingle_bells",
+    "title": "Колокольчики",
+    "emoji": "🔔",
+    "special": false,
+    "tgs_bytes": 3556
+  },
+  {
+    "id": "117_champagne",
+    "title": "Бокалы",
+    "emoji": "🥂",
+    "special": false,
+    "tgs_bytes": 3507
+  },
+  {
+    "id": "118_snowman",
+    "title": "Снеговик-джентльмен",
+    "emoji": "☃️",
+    "special": false,
+    "tgs_bytes": 5494
+  },
+  {
+    "id": "119_midnight_clock",
+    "title": "Полночь",
+    "emoji": "🕛",
+    "special": true,
+    "tgs_bytes": 8073
+  },
+  {
+    "id": "120_snow_globe",
+    "title": "Снежный шар",
+    "emoji": "🔮",
+    "special": true,
+    "tgs_bytes": 6239
+  }
+]
